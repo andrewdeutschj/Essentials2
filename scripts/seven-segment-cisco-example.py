@@ -36,3 +36,6 @@ def print_number(num):
 			lines[lin] += ''.join(segs[lin]) + ' '
 	for lin in lines:
 		print(lin)
+
+user_input = int(input("Enter an integer number:"))
+print_number(user_input)
