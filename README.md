@@ -12,3 +12,5 @@ My lab solutions
 * [Sudoku Validation](https://github.com/andrewdeutschj/Essentials2/blob/main/sudoku-validation.py) - Reads a 9x9 sudoku text file and determines validity
 
 * [Timer](https://github.com/andrewdeutschj/Essentials2/blob/main/timer.py) - using Timer class to calculate next minute/previous minute
+
+* [Weeker](https://github.com/andrewdeutschj/Essentials2/blob/main/weeker.py) - using Weeker class to store and manipulate the days of the week
