@@ -12,6 +12,13 @@ Your task is to write a program which:
 
 asks the user her/his birthday (in the format YYYYMMDD, or YYYYDDMM, or MMDDYYYY – actually, the order of the digits doesn't matter)
 outputs the Digit of Life for the date.
+
+Test your code using the data we've provided.
+
+Test input: 19991229
+    result: 6
+Test input: 20000101
+    result: 4
 """
 
 def calc_num(string_arg):
