@@ -14,3 +14,5 @@ My lab solutions
 * [Timer](https://github.com/andrewdeutschj/Essentials2/blob/main/timer.py) - using Timer class to calculate next minute/previous minute
 
 * [Weeker](https://github.com/andrewdeutschj/Essentials2/blob/main/weeker.py) - using Weeker class to store and manipulate the days of the week
+
+* [Point Distance](https://github.com/andrewdeutschj/Essentials2/blob/main/point-distance.py) - calculating the distance between two points on a plane
