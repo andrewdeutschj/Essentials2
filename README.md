@@ -16,3 +16,5 @@ My lab solutions
 * [Weeker](https://github.com/andrewdeutschj/Essentials2/blob/main/weeker.py) - using Weeker class to store and manipulate the days of the week
 
 * [Point Distance](https://github.com/andrewdeutschj/Essentials2/blob/main/point-distance.py) - calculating the distance between two points on a plane
+
+* [Triangle](https://github.com/andrewdeutschj/Essentials2/blob/main/triangle.py) - calculate the distance around a triangle
